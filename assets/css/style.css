@@ -235,6 +235,7 @@ span.hero__typing {
 }
 
 
+
 .works__body {
   background-color: #fff;
   padding: 20px;
@@ -269,6 +270,7 @@ span.hero__typing {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+  
 }
 
 .works__skill {
@@ -276,7 +278,6 @@ span.hero__typing {
   padding: 4px 8px;
   border-radius: 10px;
   font-size: 12px;
-
   display: flex;
   gap: 4px;
   align-items: center;
@@ -285,8 +286,6 @@ span.hero__typing {
 .works__skill .bx {
   font-size: 16px;
 }
-
-
 
 .works__carousel {
   display: flex;
@@ -303,7 +302,7 @@ span.hero__typing {
 .works__item {
   flex: 0 0 auto;
   width: 100%; 
-  margin-right: 16px; 
+  margin-right: 16px;
   border-radius: 12px;
   scroll-snap-align: start;
   overflow: hidden;
@@ -312,6 +311,7 @@ span.hero__typing {
 .works__body {
   background-color: #fff;
   padding: 20px;
+  
 }
 
 .works__title {

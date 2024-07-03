@@ -44,7 +44,7 @@ for (const link of links) {
 
 /* Typing */
 var typed = new Typed('#typing', {
-  strings: ['Future Web Developer', 'QA Tester', 'Front End/Backe End'], 
+  strings: ['Front-End Developer', 'Backend Developer', 'QA Tester'], 
   typeSpeed: 40, 
   backSpeed: 20, 
   loop: true,
